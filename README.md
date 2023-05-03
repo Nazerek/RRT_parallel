@@ -8,3 +8,6 @@ This repository contains an implementation of the Rapidly Exploring Random Tree 
 
 # Picture 2. Exploration of configuration space
 ![alt text](https://github.com/nazerek/RRT_parallel/blob/main/observations.png?raw=true)
+
+
+Note that shape and size of the object is assumed to be very small in this implementation
